@@ -1,0 +1,72 @@
+{
+    "tenant": "Site 1",
+    "tenantId": "d60ca394-22e2-44c7-9b94-5b41417ec770",
+    "enableLogin": false,
+    "GoogleTagManagerKey": "",
+    "pages": [
+        {
+            "moduleType": 1,
+            "url": "/about-us"
+        },
+        {
+            "moduleType": 0,
+            "url": "/contact-us"
+        },
+        {
+            "moduleType": 0,
+            "url": "/food-menu"
+        },
+        {
+            "moduleType": 2,
+            "url": "/vendor-information"
+        },
+        {
+            "moduleType": 3,
+            "url": "/test"
+        },
+        {
+            "moduleType": 4,
+            "url": "/123"
+        },
+        {
+            "moduleType": 3,
+            "url": "/topics/arts"
+        },
+        {
+            "moduleType": 4,
+            "url": "/topics/two-cols"
+        },
+        {
+            "moduleType": 2,
+            "url": "/topics/real-life-development"
+        },
+        {
+            "moduleType": 0,
+            "url": "/topics/dummy"
+        },
+        {
+            "moduleType": 2,
+            "url": "/topics/dummy1"
+        },
+        {
+            "moduleType": 4,
+            "url": "/topics/arts"
+        },
+        {
+            "moduleType": 5,
+            "url": "/info/formation"
+        }
+    ],
+    "languages": [
+        {
+            "key": "hr",
+            "name": "Croatian",
+            "isDefault": false
+        },
+        {
+            "key": "en",
+            "name": "English",
+            "isDefault": true
+        }
+    ]
+}

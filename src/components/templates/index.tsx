@@ -1,0 +1,6 @@
+export * from "./default-template/defaultTemplate"
+export * from "./template-one/templateOne"
+export * from "./template-two/templateTwo"
+export * from "./template-three/templateThree"
+export * from "./template-four/templateFour"
+export * from "./template-five/templateFive"
